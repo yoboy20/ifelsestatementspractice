@@ -1,12 +1,10 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+If else statement programs for students in bluej
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: Java IF ELSE Statements
+PURPOSE OF PROJECT: To practice programs of bluej 
+VERSION or DATE: 1.0
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: @yoboy20
 USER INSTRUCTIONS:
